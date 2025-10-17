@@ -1,6 +1,6 @@
 {
   "name": "dummyjson-tests",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "cypress.config.js",
   "scripts": {
     "test": "npx cypress open"
