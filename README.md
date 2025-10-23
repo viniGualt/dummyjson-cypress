@@ -55,3 +55,6 @@ A **API DummyJSON** é confiável para fins de testes e estudos, pois:
 No entanto, não é adequada para uso em produção, porque:
 - Os dados **não são persistidos** (é uma API fake).  
 - Retornos podem ser fixos, independentemente do conteúdo enviado.
+
+<div align=center> Integrantes do projeto
+<div align=center> Vinicius Gualtieri Moraes<br>Matheus Thierry Santos da Silva<br>Marcelo Beverari do Nascimento Filho<br>Artur Camilo Taroco
